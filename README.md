@@ -8,22 +8,15 @@ QA Engineer | Manual Testing | Playwright | JavaScript
 
 ## About
 
-QA Engineer focused on web application testing using Manual Testing and Playwright with JavaScript.
+QA Engineer specializing in manual and web automation testing using Playwright and JavaScript..
 
 ---
 
 ## Tech Stack
 
-- Playwright
-- JavaScript
-- Manual Testing
-- Git
-- GitHub
-- MySQL
-- Postman
-
----
-
-## Contact
-
-📧 adi.kashyap98@gmail.com
+Playwright
+JavaScript
+Manual Testing
+MySQL
+Postman
+Git
