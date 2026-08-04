@@ -1,22 +1,37 @@
-# Aditya Kashyap
+<h3 align="center">QA Engineer</h3>
 
-### QA Engineer | Manual Testing | Playwright | JavaScript
+<p align="center">
+Manual Testing • Playwright • JavaScript
+</p>
 
----
+<p align="center">
 
-**Tech**
+<a href="https://playwright.dev/">
+<img src="https://playwright.dev/img/playwright-logo.svg" width="45" />
+</a>
 
-- Playwright
-- JavaScript
-- Manual Testing
-- MySQL
-- Postman
-- Git
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+</a>
 
----
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+</a>
 
-**Featured Project**
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
+</a>
 
-🔗 Playwright Automation Framework
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
+</a>
 
-https://github.com/Adikashyap-hub/playwright-js-framework
+<a href="https://www.postman.com/">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" />
+</a>
+
+</p>
