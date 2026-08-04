@@ -1,6 +1,14 @@
-# Aditya Kashyap
+<h1 align="center">Aditya Kashyap</h1>
 
+<p align="center">
 QA Engineer | Manual Testing | Playwright | JavaScript
+</p>
+
+---
+
+## About
+
+QA Engineer focused on web application testing using Manual Testing and Playwright with JavaScript.
 
 ---
 
@@ -9,46 +17,13 @@ QA Engineer | Manual Testing | Playwright | JavaScript
 - Playwright
 - JavaScript
 - Manual Testing
-- SQL
 - Git
 - GitHub
-
----
-
-## Featured Project
-
-### Playwright Automation Framework
-
-A UI automation framework built with Playwright and JavaScript using the Page Object Model (POM).
-
-#### Implemented Scenarios
-
-- Login
-- End-to-End Purchase Flow
-- Negative Login Tests
-- Logout
-- HTML Report
-- JSON Test Data
-
-Repository
-
-https://github.com/Adikashyap-hub/playwright-js-framework-01
-
----
-
-## Tools
-
-- Playwright
-- Visual Studio Code
-- Node.js
-- POSTGRES SQL
-- Git
-- GitHub
+- MySQL
+- Postman
 
 ---
 
 ## Contact
 
-📧 adi.kashyap2021@gmail.com
-
-📍 India
+📧 adi.kashyap98@gmail.com
