@@ -1,26 +1,22 @@
-Aditya Kashyap
+# Aditya Kashyap
 
-QA Engineer | Manual Testing | Playwright | JavaScript
+### QA Engineer | Manual Testing | Playwright | JavaScript
 
----------------------------------
+---
 
-About
+**Tech**
 
-QA Engineer specializing in manual and web automation testing using Playwright and JavaScript.
+- Playwright
+- JavaScript
+- Manual Testing
+- MySQL
+- Postman
+- Git
 
----------------------------------
+---
 
-Tech Stack
+**Featured Project**
 
-• Playwright
-• JavaScript
-• Manual Testing
-• MySQL
-• Postman
-• Git
+🔗 Playwright Automation Framework
 
----------------------------------
-
-Featured Project
-
-Playwright Automation Framework
+https://github.com/Adikashyap-hub/playwright-js-framework
